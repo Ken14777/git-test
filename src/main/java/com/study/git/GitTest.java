@@ -17,5 +17,8 @@ public class GitTest {
         System.out.println("pull test！！");
         System.out.println("本地修改aaa");
 
+
+        System.out.println("test 123 ");
+        System.out.println("test 123456 ");
     }
 }
